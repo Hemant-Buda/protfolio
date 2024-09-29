@@ -1,0 +1,16 @@
+.cursor {
+  display: inline-block;
+  vertical-align: bottom;
+  width: 0.6em;
+  height: 1em;
+  background-color: #fff;
+  animation: blink 1s infinite;
+}
+
+.cursor-stale {
+  display: inline-block;
+  vertical-align: bottom;
+  width: 0.6em;
+  height: 1em;
+  background-color: #fff;
+}
